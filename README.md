@@ -1,9 +1,6 @@
-# basic-project-03
+# Basic Web Scraper Template
 
-This is a basic project repository created automatically.
+This is a Basic Web Scraper Template repository created for imabot2604.
 
-## How to run
-
-```bash
-python3 main.py
-```
+## File
+- `scraper.py`
